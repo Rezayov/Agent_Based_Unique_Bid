@@ -1,0 +1,7 @@
+{
+  "total_rounds": 200,
+  "num_agents": 20,
+  "winner_rate": 1.0,
+  "avg_winner_bid": 3.34,
+  "agent_type_counts": {
+    "PowerLawAgent": 

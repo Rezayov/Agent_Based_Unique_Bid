@@ -1,0 +1,7 @@
+agent_type,count
+PowerLawAgent,1200
+ThresholdAgent,800
+UniformRandomAgent,600
+EmpiricalFrequencyAgent,600
+BestResponseAgent,400
+ReinforcementLearningAgent,400
