@@ -86,10 +86,12 @@ A set of high-resolution figures is saved under `outputs/.../figures/`, includin
 Install required dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 Execution
 Run the simulation with:
-
+```bash
 python main.py
+```
 Simulation parameters (e.g., number of agents, bid range, number of rounds) can be modified in the main() function.
 
 
