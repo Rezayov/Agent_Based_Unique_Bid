@@ -1,6 +1,0 @@
-key,value
-game_id,game_20260205_233709
-K,30
-num_agents,20
-agent_types,"{""UniformRandomAgent"": 3, ""PowerLawAgent"": 6, ""ThresholdAgent"": 4, ""EmpiricalFrequencyAgent"": 3, ""BestResponseAgent"": 2, ""ReinforcementLearningAgent"": 2}"
-created_at,2026-02-05T23:37:09.512086
