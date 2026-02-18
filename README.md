@@ -1,4 +1,4 @@
-# Simulation-walth  
+# Agent based unique bid simulation
 **A Multi-Agent Simulation Framework for the Lowest Unique Bid Game**
 
 ## Abstract
